@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dengfuping/str-validator/issues"
   },
-  "homepage": "https://github.com/dengfuping/str-validator#readme"
+  "homepage": "https://github.com/dengfuping/str-validator#readme",
+  "dependencies": {
+    "eslint": "^4.12.1"
+  }
 }
