@@ -11,7 +11,7 @@
     "url": "git+ssh://git@github.com/dengfuping/str-validator.git"
   },
   "keywords": [
-    "string"
+    "string", "validator"
   ],
   "author": "dengfuping <dengfuping_develop@163.com>",
   "license": "MIT",
