@@ -1,0 +1,22 @@
+{
+  "name": "str-validator",
+  "version": "1.0.0",
+  "description": "the middleware for string validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dengfuping/str-validator.git"
+  },
+  "keywords": [
+    "string"
+  ],
+  "author": "dengfuping <dengfuping_develop@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dengfuping/str-validator/issues"
+  },
+  "homepage": "https://github.com/dengfuping/str-validator#readme"
+}
